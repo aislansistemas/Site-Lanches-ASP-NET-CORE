@@ -1,0 +1,33 @@
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csproj.CoreCompileInputs.cache
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfoInputs.cache
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfo.cs
+c:\_aspcoremvc\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.deps.json
+c:\_aspcoremvc\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.json
+c:\_aspcoremvc\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.dev.json
+c:\_aspcoremvc\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.dll
+c:\_aspcoremvc\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.pdb
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.dll
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.pdb
+c:\_aspcoremvc\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csprojResolveAssemblyReference.cache
+C:\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.deps.json
+C:\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.json
+C:\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.dev.json
+C:\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.dll
+C:\LanchesMac\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.pdb
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csprojAssemblyReference.cache
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csproj.CoreCompileInputs.cache
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfoInputs.cache
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfo.cs
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.dll
+C:\LanchesMac\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.pdb
+D:\asp.net core\site_lanches\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.deps.json
+D:\asp.net core\site_lanches\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.json
+D:\asp.net core\site_lanches\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.runtimeconfig.dev.json
+D:\asp.net core\site_lanches\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.dll
+D:\asp.net core\site_lanches\LanchesMac\bin\Debug\netcoreapp2.0\LanchesMac.pdb
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csprojAssemblyReference.cache
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.csproj.CoreCompileInputs.cache
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfoInputs.cache
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.AssemblyInfo.cs
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.dll
+D:\asp.net core\site_lanches\LanchesMac\obj\Debug\netcoreapp2.0\LanchesMac.pdb

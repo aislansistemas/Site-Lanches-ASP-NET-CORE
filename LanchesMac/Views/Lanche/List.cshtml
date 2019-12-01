@@ -1,0 +1,8 @@
+﻿@model LancheListViewModel
+
+<h2>@Model.CategoriaAtual</h2>
+
+@foreach (Lanche lanche in Model.Lanches)
+{
+  @Html.Partial("_LanchesResumo",lanche)
+}
